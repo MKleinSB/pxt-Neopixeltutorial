@@ -17,7 +17,7 @@ Gut geeignet sind RGB-Streifen die es sehr günstig gibt. Mehr als 8 LEDs sollte
 Dieses Projekt verwendet die **neopixel** Erweiterung. Du musst sie zu deinem Projekt hinzufügen.
 * klicke auf das Zahnrad-Menü und wähle **Erweiterungen**
 * wähle die **neopixel** Erweiterung
-![Neopixelextension](https://github.com/MKleinSB/pxt-Neopixeltutorial/blob/master/0.png)
+![Neopixelextension](https://hackster.imgix.net/uploads/attachments/480902/neopixel1_eTerZEwAHw.png?auto=compress%2Cformat&w=1280&h=960&fit=max)
 Nun musst Du dem @boardname@ sagen wie dein Neopixelstreifen heißen soll und aus wie vielen LEDs er besteht.
 Wir gehen mal von 8 LEDs aus die an P0 angeschlossen sind.
 
