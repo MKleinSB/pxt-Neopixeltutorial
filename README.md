@@ -2,7 +2,7 @@
 
 ## Willkommen!
 
- Dieses geführte Tutorial zeigt dir, wie du ein Skript programmierst mit dem Du RGB-LEDs (Neopixel) mit Deinem @boardname@ ansteuern kannst.
+Dieses geführte Tutorial zeigt dir, wie du ein Skript programmierst mit dem Du RGB-LEDs (Neopixel) mit Deinem @boardname@ ansteuern kannst.
 ![Neopixelbild](https://github.com/MKleinSB/pxt-Neopixeltutorial/blob/master/1.jfif)
 Fangen wir an!
 
@@ -89,7 +89,7 @@ basic.forever(function () {
 })
 ```
 
-## Ausblick @tutorialCompleted
+## Ausblick
 
 Was könntest Du jetzt noch mit deinem @boardname@ und Neopixeln tun? 
 * Lasse eine farbige LED hin- und herlaufen
