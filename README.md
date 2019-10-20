@@ -7,6 +7,7 @@ Dieses geführte Tutorial zeigt dir, wie du ein Skript programmierst mit dem Du 
 Fangen wir an!
 
 ## Neopixel anschließen @fullscreen
+
 Neopixel lassen sich ganz leicht am @boardname@ anschließen:
 Verbinde DIN mit P0, +5V mit dem + des @boardname@ und GND mit - des @boardname@
 Gut geeignet sind RGB-Streifen die es sehr günstig gibt. Mehr als 8 LEDs sollten es ohne zusätzliche Stromversorgung nicht sein.
