@@ -3,7 +3,7 @@
 ## Willkommen!
 
 Dieses geführte Tutorial zeigt dir, wie du ein Skript programmierst mit dem Du RGB-LEDs (Neopixel) mit Deinem @boardname@ ansteuern kannst.
-![Neopixelbild](https://github.com/MKleinSB/pxt-Neopixeltutorial/blob/master/1.jfif)
+![Neopixelbild](https://hackster.imgix.net/uploads/attachments/928105/_vb58jxjES8.tmp_file?auto=compress%2Cformat&w=1280&h=960&fit=max)
 Fangen wir an!
 
 ## Neopixel anschließen @fullscreen
