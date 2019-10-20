@@ -79,7 +79,7 @@ basic.forever(function () {
 ## Balkendiagramm
 
 Zeige doch mit dem @boardname@ analoge Werte wie die Helligkeit als Balkendiagramm an!
-Verwende dazu den Block ``||neopixel.zeige Balkendiagramm von Wert||``, ``||input.Lichtstärke||`` und den analogen Maximalwert für Licht `255`.
+Verwende dazu den Block ``||neopixel.zeige Balkendiagramm von Wert||``, ``||input.lichtstärke||`` und den analogen Maximalwert für Licht `255`.
 Platziere die Blöcke in der Endlosschleife. 
 
 ```blocks
